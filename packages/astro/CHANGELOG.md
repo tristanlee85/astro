@@ -1,5 +1,14 @@
 # astro
 
+## 1.0.0-beta.21
+
+### Patch Changes
+
+- [#3234](https://github.com/withastro/astro/pull/3234) [`de123b28`](https://github.com/withastro/astro/commit/de123b28b3ff398b800cb598f20326ca85a0fb60) Thanks [@JuanM04](https://github.com/JuanM04)! - Moved some type from `astro` to `@astrojs/markdown-remark`
+
+- Updated dependencies [[`de123b28`](https://github.com/withastro/astro/commit/de123b28b3ff398b800cb598f20326ca85a0fb60), [`de123b28`](https://github.com/withastro/astro/commit/de123b28b3ff398b800cb598f20326ca85a0fb60)]:
+  - @astrojs/markdown-remark@0.9.3
+
 ## 1.0.0-beta.20
 
 ### Patch Changes
